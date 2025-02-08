@@ -16,6 +16,13 @@ const Index = () => {
       <div className="max-w-4xl mx-auto">
         <header className="mb-12">
           <Logo />
+          <motion.p 
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="text-center text-xl mt-6 text-gray-300"
+          >
+            Bem vindo! Dicas, notícias e novidades toda semana
+          </motion.p>
         </header>
 
         <AnimatePresence mode="wait">
