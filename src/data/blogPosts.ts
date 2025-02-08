@@ -3,7 +3,7 @@ export const blogPosts = [
   {
     id: 1,
     title: "O Segredo do Copywriting Persuasivo: Como Fazer Seu Público Dizer 'SIM'",
-    date: new Date("2024-03-15"),
+    date: new Date("2025-02-10"),
     excerpt: "Descubra os segredos por trás de textos que realmente vendem e convertem.",
     content: `
       <p>Você já se perguntou por que algumas palavras têm o poder de vender, enquanto outras passam despercebidas? O segredo está no copywriting persuasivo!</p>
@@ -23,7 +23,7 @@ export const blogPosts = [
   {
     id: 2,
     title: "O Segredo das Páginas de Vendas Irresistíveis: Como Escrever Textos que Convertem",
-    date: new Date("2024-03-18"),
+    date: new Date("2025-02-10"),
     excerpt: "Aprenda a estruturar páginas de vendas que realmente funcionam e geram resultados.",
     content: `
       <p>Uma página de vendas bem escrita pode ser a diferença entre um cliente que compra e outro que sai sem deixar vestígios. Mas o que faz um texto vender de verdade? Aqui estão os elementos essenciais:</p>
